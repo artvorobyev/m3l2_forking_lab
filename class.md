@@ -1,0 +1,3 @@
+Artemii
+Tbilisi
+Meta Frontend Developer Certificate
